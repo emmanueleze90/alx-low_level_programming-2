@@ -1,7 +1,10 @@
 #include <stdio.h>
-/*
- * main(void)-serves as the entry point of every code
- * return:by default returns a zero value
+/**
+ * main - Entry point
+ *
+ * Description: 'the program's description'
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
